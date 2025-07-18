@@ -1,6 +1,6 @@
 import java.util.*
 
-internal class Main {
+internal class main {
     var Main: Class<*>? = null
 
     companion object {

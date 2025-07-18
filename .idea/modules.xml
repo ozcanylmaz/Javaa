@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Javaa.iml" filepath="$PROJECT_DIR$/Javaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/PatikaJava/PatikaJava.iml" filepath="$PROJECT_DIR$/week1/PatikaJava/PatikaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/week1.iml" filepath="$PROJECT_DIR$/week1/week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/PatikaJava/week1-/week1-.iml" filepath="$PROJECT_DIR$/week1/PatikaJava/week1-/week1-.iml" />
     </modules>
   </component>
 </project>
